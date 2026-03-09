@@ -1,1 +1,1 @@
-https://github.com/phomdev/ono-tebe-nado.git
+https://github.com/ZenZun66/ono-tebe-nado.git
